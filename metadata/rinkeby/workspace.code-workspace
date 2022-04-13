@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "nba_api",
+			"path": "../nba_api"
+		}
+	],
+	"settings": {}
+}
